@@ -21,5 +21,5 @@ function ckin() {
 	if (num > 8) {
 		window.location.href = "https://a-chrysand.github.io/DWxuanxiuhw.github.io/src/0_Head/horzionalnav.html"
 	}
-	console.log("mission check done <" + num + ">line\n,waiting for refresh")
+	console.log("<" + num-1 + ">line checked\nwaiting for refresh")
 }
